@@ -11,10 +11,10 @@ It offers a simple and responsive interface for managing employee records, atten
 
 ## 🔧 Tech Stack Used
 
-- ⚛️ **React** – Frontend library for building UI
-- ⚡ **Vite** – Fast build tool and development server
-- 🎨 **Tailwind CSS** – Utility-first CSS framework
-- ✅ **ESLint** – For linting and code consistency
+- ⚛️ React – Frontend library for building UI
+- ⚡ Vite – Fast build tool and development server
+- 🎨 Tailwind CSS – Utility-first CSS framework
+- ✅ ESLint – For linting and code consistency
 
 ---
 
@@ -39,7 +39,7 @@ ems-main/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Clone this repo and run the project locally:
 
@@ -63,27 +63,8 @@ npm run dev
 
 ## 🙋‍♂️ Developer
 
-**Chirag Choken**
+Chirag Choken
 B.Tech CSE Core | SRM Chennai
-Passionate about Full Stack Development, ML, and DevOps.
+Passionate about Full Stack Development,Cloud Service.
 
----
-
-## 📃 License
-
-This project is licensed for personal and educational use only.
-
----
-
-```
-
----
-
-### ✅ What You Should Do Now
-
-1. Replace your current `README.md` with the above content.
-2. Change the GitHub repo name or link if required in the clone section.
-3. Add or remove features depending on what your app actually does.
-
-Would you like me to help modify the app’s design or suggest 1-2 unique features to stand out more?
 ```
