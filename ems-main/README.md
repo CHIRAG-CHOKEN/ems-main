@@ -1,8 +1,3 @@
-Great, Chirag! Let’s customize your `README.md` to make it look **original, professional, and personal**.
-
-Here's a **rewritten version** tailored for your EMS (Employee Management System) project:
-
-
 
 ```markdown
 # Employee Management System (EMS) 🚀
